@@ -1,0 +1,11 @@
+eureka:
+  instance:
+    host: localhost
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+      
+    #to avoid self registry by this eureka server
+  
+    
+    

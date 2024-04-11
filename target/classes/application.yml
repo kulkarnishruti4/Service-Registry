@@ -6,6 +6,7 @@ eureka:
     fetch-registry: false
       
     #to avoid self registry by this eureka server
-  
+server:
+  port: 8761  
     
     
